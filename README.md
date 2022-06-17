@@ -25,6 +25,6 @@
   <a href = "mailto:vwebtech777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/ViictorWebTech/SnakeContributions/blob/main/snake-moviment.svg)
+  ![Snake animation](https://github.com/ViictorWebTech/ViictorWebTech/blob/output/github-contribution-grid-snake.svg)
  
 </div>
