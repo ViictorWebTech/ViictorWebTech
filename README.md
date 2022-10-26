@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Victor, estudante de Informática!
 - 🖥️ Estudando Linguagens de Marcação // HTML5 e CSS3
+- 🖥️ Iniciando Linguagem de Programação // JavaScript
 - 📖 Curso Integrado de Informática // Instituto Federal de São Paulo
 
 <div align="center">
