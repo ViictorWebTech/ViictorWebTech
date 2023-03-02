@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor, estudante de Informática!
 - 📖 Curso Integrado de Informática // Instituto Federal de São Paulo
-- 🖥️ Estudando Linguagens de Marcação // HTML5, CSS3
-- 🖥️ Estudando Linguagem de Programação // Java
+- 🖥️ Estudando Linguagens de Marcação | HTML5, CSS3
+- 🖥️ Estudando Linguagem de Programação | Java
 - 🖥️ Concluído: 
 - ☑️  Algoritmo e Programação (Lógica de Programação);
 - ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript;
