@@ -12,8 +12,9 @@
 - 🔲 Análise e Projeto de Sistemas
 - 🔲 Desenvolvimento de Web Sites II
 - 🔲 Gerenciamento de Banco de Dados II;
+- 🔲 Linguagem de Programação;
 - 🔲 Projeto Integrador;
-- 🔲 Redes de Computadores
+- 🔲 Redes de Computadores.
 
 
 
