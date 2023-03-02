@@ -1,18 +1,20 @@
 ## Olá! Eu sou o Victor, estudante de Informática!
+- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo
 - 🖥️ Estudando Linguagens de Marcação // HTML5, CSS3
 - 🖥️ Estudando Linguagem de Programação // Java
-- 🖥️ Em Andamento:
-- 🔲  Estudando Análise e Projeto de Sistemas
-- 🔲  Estudando Desenvolvimento de Web Sites II
-- 🔲  Estudando Gerenciamento de Banco de Dados II;
-- 🔲  Estudando Redes de Computadores
 - 🖥️ Concluídos: 
 - ✅ Algoritmo e Programação (Lógica de Programação);
 - ✅ Desenvolvimento de Web Sites I | HTML, CSS e JavaScript;
 - ✅ Gerenciamento de Banco de Dados I | PostgreSQL;
 - ✅ Hardware. 
 - ✅ Sistemas Operacionais e Terminal Linux;
-- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo
+- 🖥️ Em Andamento:
+- 🔲  Estudando Análise e Projeto de Sistemas
+- 🔲  Estudando Desenvolvimento de Web Sites II
+- 🔲  Estudando Gerenciamento de Banco de Dados II;
+- 🔲  Estudando Redes de Computadores
+
+
 
 <div align="center">
   <a href="https://github.com/ViictorWebTech">
