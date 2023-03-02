@@ -9,10 +9,11 @@
 - ☑️ Hardware. 
 - ☑️ Sistemas Operacionais e Terminal Linux;
 - 🖥️ Em Andamento:
-- 🔲  Estudando Análise e Projeto de Sistemas
-- 🔲  Estudando Desenvolvimento de Web Sites II
-- 🔲  Estudando Gerenciamento de Banco de Dados II;
-- 🔲  Estudando Redes de Computadores
+- 🔲 Análise e Projeto de Sistemas
+- 🔲 Desenvolvimento de Web Sites II
+- 🔲 Gerenciamento de Banco de Dados II;
+- 🔲 Projeto Integrador;
+- 🔲 Redes de Computadores
 
 
 
