@@ -27,8 +27,9 @@
 
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Victor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
+  <img align="center" alt="Victor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=676&height=676">
 </div>
   
