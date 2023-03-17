@@ -17,7 +17,7 @@
 - 🔲 Redes de Computadores.
 
 
-
+<!-- GITHUB STATUS -->
 <div align="center">
   <a href="https://github.com/ViictorWebTech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViictorWebTech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,7 +27,9 @@
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   
 <div style="display: inline_block"><br>
-
+  
+  <!-- TECNOLOGIAS -->
+<div align="center">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -35,18 +37,24 @@
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
+  </div>
+  
   <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=676&height=676">
 </div>
   
   ##
  
 <div> 
+  
+  <!-- REDES -->
+  <div align="center">
   <a href="https://www.youtube.com/channel/UCMD8AJbtJl1DUl-d3YkZztA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victorguerreiro_br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/victor_guerreiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/utxHV5Z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorguerreirocontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  </div>
  
   ![Snake animation](https://github.com/ViictorWebTech/ViictorWebTech/blob/output/github-contribution-grid-snake.svg)
  
