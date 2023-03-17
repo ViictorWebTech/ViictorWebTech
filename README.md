@@ -44,8 +44,6 @@
  
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alg/alg-original.svg">
-  
   </div>
   
   <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=676&height=676">
