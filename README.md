@@ -46,7 +46,7 @@
   
   </div>
   
-  <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=676&height=676">
+  <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=338&height=338">
 </div>
   
   ##
