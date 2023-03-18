@@ -85,7 +85,7 @@
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="[https://github.com/felipeAguiarCode/angular-blog](https://github.com/ViictorWebTech/cursos-github-repositorios)">
+			<a href="https://github.com/ViictorWebTech/cursos-github-repositorios">
       <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/raw/master/.github/assets/documentation.png" />
       </a>
       </td>
