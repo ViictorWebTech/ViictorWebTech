@@ -10,12 +10,18 @@
   <p>- 🖥️ Estudando Linguagens de Marcação | HTML5, CSS3</p>
   <p>- 🖥️ Estudando Linguagem de Programação | Java, PHP</p>
   <h3>- 🖥️ Concluído: </h3>
+	</div>
+	 <div align="center">
   <p>- ☑️  Algoritmo e Programação (Lógica de Programação); </p>
   <p>- ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
   <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
   <p>- ☑️ Hardware. </p>
   <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
+	</div>
+   <div align="center">
   <h3>- 🖥️ Em Andamento: </h3>
+	</div>
+	 <div align="center">
   <p>- 🔲 Análise e Projeto de Sistemas </p>
   <p>- 🔲 Desenvolvimento de Web Sites II; </p>
   <p>- 🔲 Gerenciamento de Banco de Dados II; </p>
@@ -23,7 +29,6 @@
   <p>- 🔲 Projeto Integrador; </p>
   <p>- 🔲 Redes de Computadores. </p>
 </div>
-
 <h3 align="center">
   Connect with me
 </h3>
