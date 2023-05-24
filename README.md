@@ -59,6 +59,9 @@
 ### ⚡ &nbsp;Database 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECE2FB?style=for-the-badge&logo=postgresql)&nbsp;
 
+### 📚 &nbsp;Frameworks
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## 📌 &nbsp;Pinned Repositories
 
@@ -75,20 +78,20 @@
       <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/raw/master/.github/assets/documentation.png" />
       </a>
       </td>
-			<td valign="top">
+			<td align="top">
 			<h3>Curriculum (HTML + CSS + GitHub Pages)</h3>
 			<p>A personal Curriculum Vitae project made with HTML, CSS and indexed on GitHub Pages.</p>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/ViictorWebTech/cursos-github-repositorios">
+			<a href="https://github.com/ViictorWebTech/Atividades-IFSP-DWS-2">
       <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/raw/master/.github/assets/documentation.png" />
       </a>
       </td>
-			<td valign="top">
-			<h3>Learning in Courses</h3>
-			<p>Repository of my learning in courses. (PT-BR)</p>
+			<td align="top">
+			<h3>Web Site Development Activities</h3>
+			<p>Repository with my activities done in Web Site Development 2 classes by the Federal Institute of Education, Science and Technology of São Paulo. (PT-BR)</p>
 			</td>
 		</tr>
 	</tbody>
