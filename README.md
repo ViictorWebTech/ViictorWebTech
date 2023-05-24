@@ -44,23 +44,22 @@
   
   ## 🛠 &nbsp;Tech Stack
 
-### 👩‍💻 &nbsp;Back-End
-
-![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
-![JAVA](https://img.shields.io/badge/JAVA-E7ECEB?style=for-the-badge&logo=java)&nbsp;
-
 
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=1572B6)&nbsp;
 
+### 👩‍💻 &nbsp;Back-End
+
+![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
+![JAVA](https://img.shields.io/badge/JAVA-E7ECEB?style=for-the-badge&logo=java)&nbsp;
 
 ### ⚡ &nbsp;Database 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECE2FB?style=for-the-badge&logo=postgresql)&nbsp;
 
 ### 📚 &nbsp;Frameworks
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 
 ## 📌 &nbsp;Pinned Repositories
