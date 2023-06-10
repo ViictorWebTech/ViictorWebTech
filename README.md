@@ -72,10 +72,21 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
+			<th colspan="2" width="2000">&nbsp;Projects</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/ViictorWebTech/livecoding-brazil">
+      <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/raw/master/.github/assets/documentation.png" />
+      </a>
+      </td>
+			<td align="top">
+			<h3>Live Coding Brazil 🇧🇷</h3>
+			<p>Markdown repository that highlights Brazilian live coding streamers, promoting the community and providing references to follow software development in real time. </p>
+			</td>
+		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/ViictorWebTech/curriculum-vitae">
