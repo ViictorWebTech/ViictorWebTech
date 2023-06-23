@@ -62,6 +62,7 @@
 
 ### ⚡ &nbsp;Database 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECE2FB?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
 
 ### 📚 &nbsp;Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
