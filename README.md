@@ -12,22 +12,26 @@
   <h3>- 🖥️ Concluído: </h3>
 	</div>
 	 <div align="center">
-  <p>- ☑️  Algoritmo e Programação (Lógica de Programação); </p>
-  <p>- ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
-  <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
+  <p>- ☑️ Algoritmo e Programação (Lógica de Programação); </p>
+  <p>- ☑️ Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
+  <p>- ☑️ Gerenciamento de Banco de Dados I | PostgreSQL; </p>
   <p>- ☑️ Hardware. </p>
   <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
+  <p>- ☑️ Análise e Projeto de Sistemas </p>
+  <p>- ☑️ Desenvolvimento de Web Sites II; </p>
+  <p>- ☑️ Gerenciamento de Banco de Dados II; </p>
+  <p>- ☑️ Linguagem de Programação; </p>
+  <p>- ☑️ Projeto Integrador; </p>
+  <p>- ☑️ Redes de Computadores. </p>
 	</div>
    <div align="center">
   <h3>- 🖥️ Em Andamento: </h3>
 	</div>
 	 <div align="center">
-  <p>- 🔲 Análise e Projeto de Sistemas </p>
-  <p>- 🔲 Desenvolvimento de Web Sites II; </p>
-  <p>- 🔲 Gerenciamento de Banco de Dados II; </p>
-  <p>- 🔲 Linguagem de Programação; </p>
-  <p>- 🔲 Projeto Integrador; </p>
-  <p>- 🔲 Redes de Computadores. </p>
+  <p>- 🔲 Segurança da Informação. </p>
+  <p>- 🔲 Linguagem de Programação B; </p>
+  <p>- 🔲 Tópicos Avançados Em Tecnlogia da Informação; </p>
+  <p>- 🔲 Projeto Integrador 3; </p>
 </div>
 <h3 align="center">
   Connect with me
