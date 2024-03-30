@@ -43,7 +43,7 @@
 <a href="https://www.instagram.com/victorguerreiro_br/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
 	<a href="https://www.linkedin.com/in/victor-guerreiro"><img src="https://img.shields.io/badge/-Linkedin-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="Linkedin"></a>
    <a href="https://www.twitch.tv/victor_guerreiro"><img src="https://img.shields.io/badge/-Twitch-020114?style=for-the-badge&amp;logo=twitch&amp;logoColor=EBD03E&amp;color:FFF" alt="Twitch"></a>
-  <a href="https://twitter.com/VictorGuerrei16"><img src="https://img.shields.io/badge/-Twitter-020114?style=for-the-badge&amp;logo=twitter&amp;logoColor=EBD03E&amp;color:FFF" alt="Twitter"></a>
+  <a href="https://twitter.com/uGuerreiro_"><img src="https://img.shields.io/badge/-Twitter-020114?style=for-the-badge&amp;logo=twitter&amp;logoColor=EBD03E&amp;color:FFF" alt="Twitter"></a>
    <a href="mailto:victorguerreirocontact@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
 </a></p>
